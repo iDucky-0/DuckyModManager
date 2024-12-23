@@ -8,6 +8,13 @@
     "download_url": "https://github.com/iDucky-0/DuckyModManager/releases/download/meh/iiMenu.zip"
   },
   {
+    "name": "Sapphire Computer Overlay",
+    "author": "e-Ducky",
+    "version": "3",
+    "group": "Interface",
+    "download_url": "https://github.com/iDucky-0/DuckyModManager/releases/download/meh3/Computer.zip"
+  },
+  {
     "name": "Sapphire Menu",
     "author": "e-Ducky",
     "version": "3.0",
