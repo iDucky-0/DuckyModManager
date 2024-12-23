@@ -1,6 +1,6 @@
 [
   {
-    "name" : "Core",
+    "name" : "Built In",
     "rank" : 0
   },
   {
@@ -12,11 +12,19 @@
     "rank" : 2
   },
   {
-    "name" : "Tweaks / Tools",
+    "name" : "Interface",
     "rank" : 3
   },
   {
-    "name" : "Libraries",
+    "name" : "Illegal Mods",
     "rank" : 4
+  },
+  {
+    "name" : "Legal Mods",
+    "rank" : 5
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 6
   }
 ]
