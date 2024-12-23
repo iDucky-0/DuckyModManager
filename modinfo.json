@@ -1,5 +1,13 @@
 [
   {
+    "name": "Sapphire Menu",
+    "author": "e-Ducky",
+    "version": "3.0",
+    "git_path": "iDucky-0/Sapphire.exe",
+    "group": "Illegal Mods",
+    "download_url": "https://github.com/iDucky-0/Sapphire.exe/releases/latest"
+  },
+  {
     "name": "BananaHook",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.3.1",
